@@ -17,7 +17,7 @@ Resumen:
 
 Este trabajo fue realizado utilizando 3 software:
 
-> Arduino IDE: para la programación de los periféricos conectados al arduino en lenguaje C(módulo de bluetooth, display 16x2, LEDs de distintos colores, termocupla, buzzer pasivo).
+> Arduino IDE: para la programación de los periféricos conectados al arduino en lenguaje C(módulo de bluetooth, display 16x2, LEDs de distintos colores, termocupla, buzzer pasivo, RTC (para el control del tiempo)).
 
 > MIT App Inventor: para el desarrollo de la aplicación del teléfono donde se puede monitorizar las lecturas de las termocuplas, este se conecta al dispositivo arduino mediante el módulo bluetooth. 
 

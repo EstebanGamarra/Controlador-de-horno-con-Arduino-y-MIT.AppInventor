@@ -15,7 +15,7 @@ Año: 2019
 
 Resumen: 
 
-Este trabajo fue realizado utilizando 3 software:
+Este trabajo fue realizado utilizando 3 softwares:
 
 > Arduino IDE: para la programación de los periféricos conectados al arduino en lenguaje C(módulo de bluetooth, display 16x2, LEDs de distintos colores, termocupla, buzzer pasivo, RTC (para el control del tiempo)).
 

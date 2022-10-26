@@ -11,7 +11,7 @@ Ciudad: Asunción
 
 Carrera: Ingeniería Electrónica
 
-Año: 2019
+Año: 2018
 
 Resumen: 
 
